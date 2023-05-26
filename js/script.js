@@ -1,4 +1,4 @@
-let seconds = prompt("input seconds");
+let seconds = prompt("input seconds:");
 const min = 60;
 const hour = min * 60;
 const day = hour * 24;
